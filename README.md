@@ -9,3 +9,12 @@
 ![image](https://github.com/user-attachments/assets/3aa89ded-fbb1-41fc-9825-c326bab7b086)
 ![image](https://github.com/user-attachments/assets/a520c9a1-02da-4811-9184-c94d8436fdf2)
 ## Conectarse desde linux a la impresora
+
+![image](https://github.com/user-attachments/assets/ce744fbd-ee2b-447d-ac33-a0ca76264ea2)
+![image](https://github.com/user-attachments/assets/e81b9a80-0b4d-4e0b-a7ce-7da1959b40cc)
+
+![image](https://github.com/user-attachments/assets/4dc8363a-4c82-4be0-9727-fbc319b4fda4)
+![image](https://github.com/user-attachments/assets/cae0f63d-461f-42c7-a3a9-24016251f4b0)
+![image](https://github.com/user-attachments/assets/51b16e69-1425-4d4b-b316-554a500488d5)
+
+
