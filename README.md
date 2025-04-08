@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/cae0f63d-461f-42c7-a3a9-24016251f4b0)
 ![image](https://github.com/user-attachments/assets/51b16e69-1425-4d4b-b316-554a500488d5)
 
-## Proceso Sebas
+## Crear una Impresora virtual
 ![image](https://github.com/user-attachments/assets/06594b82-9103-4385-bea1-3c8bc07f22f8)
 ![Captura de pantalla 2025-04-08 122638](https://github.com/user-attachments/assets/98001509-1b15-4a38-ac54-7e0eda0e75f8)
 ![Captura de pantalla 2025-04-08 122732](https://github.com/user-attachments/assets/7152fb51-6f46-4fd0-910a-64ad38bcc816)
