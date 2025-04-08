@@ -1,4 +1,3 @@
-![Captura desde 2025-04-01 14-43-02](https://github.com/user-attachments/assets/61421ab4-e7bf-4700-8fd5-efa417325b27)# IMPRESORAS
 # CONEXIO DE WINDOWS A LINUX
 ## Posem els equips a la mateixa xarxa
 ![image](https://github.com/user-attachments/assets/58c2aa35-d599-4ff9-aa55-8305505cfd83)
