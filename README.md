@@ -13,7 +13,7 @@
 
 
 
-## Conectarse desde windows a la impresora linux
+## Conectarse desde Windows a la impresora Linux
 
 ![image](https://github.com/user-attachments/assets/ce744fbd-ee2b-447d-ac33-a0ca76264ea2)
 ![image](https://github.com/user-attachments/assets/e81b9a80-0b4d-4e0b-a7ce-7da1959b40cc)
@@ -31,6 +31,7 @@
 ![Captura de pantalla 2025-04-08 122852](https://github.com/user-attachments/assets/d51bd9e8-0496-4a4e-9575-dc3b0330ae9e)
 ![Captura de pantalla 2025-04-08 122906](https://github.com/user-attachments/assets/ccb0ddd5-43ef-4490-93e0-76444444f52a)
 ![Captura de pantalla 2025-04-08 123017](https://github.com/user-attachments/assets/553656d3-b727-49f5-b0c3-9c5233b684ae)
+## Conexio desde Linux a la impresora Windows
 ![Captura de pantalla 2025-04-03 101438](https://github.com/user-attachments/assets/e5d10784-70b0-411c-bd6a-7dff133d8fcd)
 ![Captura de pantalla 2025-04-03 101453](https://github.com/user-attachments/assets/f5664f76-f34d-42b3-9dbe-27e60aa5a390)
 ![Captura de pantalla 2025-04-03 101502](https://github.com/user-attachments/assets/3b9cbe68-edcd-4410-be98-8081c0accedb)
