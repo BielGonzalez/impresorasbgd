@@ -13,7 +13,7 @@
 
 
 
-## Conectarse desde linux a la impresora
+## Conectarse desde windows a la impresora linux
 
 ![image](https://github.com/user-attachments/assets/ce744fbd-ee2b-447d-ac33-a0ca76264ea2)
 ![image](https://github.com/user-attachments/assets/e81b9a80-0b4d-4e0b-a7ce-7da1959b40cc)
@@ -21,5 +21,22 @@
 ![image](https://github.com/user-attachments/assets/4dc8363a-4c82-4be0-9727-fbc319b4fda4)
 ![image](https://github.com/user-attachments/assets/cae0f63d-461f-42c7-a3a9-24016251f4b0)
 ![image](https://github.com/user-attachments/assets/51b16e69-1425-4d4b-b316-554a500488d5)
+
+## Proceso Sebas
+![image](https://github.com/user-attachments/assets/06594b82-9103-4385-bea1-3c8bc07f22f8)
+![Captura de pantalla 2025-04-08 122638](https://github.com/user-attachments/assets/98001509-1b15-4a38-ac54-7e0eda0e75f8)
+![Captura de pantalla 2025-04-08 122732](https://github.com/user-attachments/assets/7152fb51-6f46-4fd0-910a-64ad38bcc816)
+![Captura de pantalla 2025-04-08 122753](https://github.com/user-attachments/assets/b5b7cf4f-50bf-48e7-8e97-e40abd7e0233)
+![Captura de pantalla 2025-04-08 122830](https://github.com/user-attachments/assets/e819ba84-831d-4900-b0bf-0dc3ff142438)
+![Captura de pantalla 2025-04-08 122852](https://github.com/user-attachments/assets/d51bd9e8-0496-4a4e-9575-dc3b0330ae9e)
+![Captura de pantalla 2025-04-08 122906](https://github.com/user-attachments/assets/ccb0ddd5-43ef-4490-93e0-76444444f52a)
+![Captura de pantalla 2025-04-08 123017](https://github.com/user-attachments/assets/553656d3-b727-49f5-b0c3-9c5233b684ae)
+![Captura de pantalla 2025-04-03 101438](https://github.com/user-attachments/assets/e5d10784-70b0-411c-bd6a-7dff133d8fcd)
+![Captura de pantalla 2025-04-03 101453](https://github.com/user-attachments/assets/f5664f76-f34d-42b3-9dbe-27e60aa5a390)
+![Captura de pantalla 2025-04-03 101502](https://github.com/user-attachments/assets/3b9cbe68-edcd-4410-be98-8081c0accedb)
+![Captura de pantalla 2025-04-03 101607](https://github.com/user-attachments/assets/83633fdf-4756-4387-b47b-2b0f2209d2ab)
+![Captura de pantalla 2025-04-03 101633](https://github.com/user-attachments/assets/dbdb9e60-5470-42ac-9619-fbeee8e6d703)
+![Captura de pantalla 2025-04-03 101648](https://github.com/user-attachments/assets/848f45b6-2fc2-4ce4-afa5-c31863dd6c42)
+![Captura de pantalla 2025-04-03 101722](https://github.com/user-attachments/assets/fb1296cd-46fc-4789-b601-436ebd52c3f4)
 
 
